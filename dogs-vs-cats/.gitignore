@@ -1,0 +1,12 @@
+# Data
+data/
+*.zip
+
+# Models and Transformers
+*.h5
+*.onnx
+
+# Python environments
+__pycache__/
+venv/
+.env
