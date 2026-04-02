@@ -6,4 +6,4 @@ joblib
 xgboost
 lightgbm
 Pillow
-OpenCV-python
+opencv-python-headless
